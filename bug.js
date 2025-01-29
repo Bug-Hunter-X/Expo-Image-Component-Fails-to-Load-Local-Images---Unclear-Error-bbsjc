@@ -1,0 +1,1 @@
+This error occurs when using Expo's `Image` component with a local URI that isn't properly formatted or accessible.  The image may not exist at the specified path, or there might be an issue with file permissions.  Expo's error messages aren't always explicit in this situation, making debugging more challenging.
